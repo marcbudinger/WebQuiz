@@ -1,6 +1,19 @@
 # webquiz
 
-Structure du document Latex : 
+## Installation
+
+Installer un environnement Latex (ex: MikTex) avec le package CTAN webquiz : https://ctan.org/pkg/webquiz
+
+Pour créer le fichier html depuis le fichier latex, utiliser la commander `webquiz nomDuFichier.tex`
+
+Pour initialiser webquiz ouvrez le fichier se situant : `User\Documents\Latex\tex\latex\webquiz\webquizsrc` et renseigner :
+     - `webquiz-url       = ./`
+     - `webquiz-www       = https://fantomos.github.io/webquiz/` (à remplacer par l'adresse du site surlequel sont hébergé les quizs
+     
+Ne pas oublier de copier les dossiers `css` et  `js` sur votre site.
+
+
+## Structure du document Latex : 
 
 
      \documentclass{webquiz} 
