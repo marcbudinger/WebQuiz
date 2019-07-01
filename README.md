@@ -6,7 +6,7 @@ Installer un environnement Latex (ex: MikTex) avec le package CTAN webquiz : htt
 
 Pour créer le fichier html depuis le fichier latex, utiliser la commander `webquiz nomDuFichier.tex`
 
-Pour initialiser webquiz ouvrez le fichier se situant : `User\Documents\Latex\tex\latex\webquiz\webquizsrc` et renseigner :
+Pour initialiser webquiz ouvrez le fichier se situant : `User\Documents\Latex\tex\latex\webquiz\webquizsrc` et renseignez :
 
 * `webquiz-url       = ./`
    
