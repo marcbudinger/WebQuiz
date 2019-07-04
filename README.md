@@ -1,4 +1,6 @@
 # webquiz
+## Exemple de lien : https://marcbudinger.github.io/WebQuiz/scaling.html
+
 
 ## Installation
 
